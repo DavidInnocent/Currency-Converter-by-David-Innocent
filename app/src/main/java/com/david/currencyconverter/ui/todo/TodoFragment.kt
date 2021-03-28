@@ -11,9 +11,6 @@ import android.view.ViewGroup
 import com.david.currencyconverter.databinding.FragmentTodoBinding
 
 
-/**
- * A fragment representing a list of Items.
- */
 class TodoFragment : Fragment() {
 
     lateinit var fragmentTodoBinding: FragmentTodoBinding;
